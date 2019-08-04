@@ -1,0 +1,1 @@
+FROM blave1/pyserver:latest
